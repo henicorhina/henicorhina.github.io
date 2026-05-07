@@ -1,8 +1,9 @@
 ---
 layout: profiles
 permalink: /people/
-title: Lab members
-# description: Lab members of the lab or group
+title: People
+description: __Lab members__
+subtitle: The lab focuses on Master's and undergraduate student research. We are currently not accepting new Master's students. If you are interested in joining the lab as an undergraduate researcher, contact Dr. Johnson directly.
 nav: true
 nav_order: 7
 
@@ -17,7 +18,7 @@ profiles:
     #  <p>555 your office number</p>
     #  <p>123 your address street</p>
     #  <p>Your City, State 12345</p>
-    
+
   - align: left
     image: prof_pic.jpg
     content: about_Friedman.md
