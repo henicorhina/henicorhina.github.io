@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.fgcu.edu/'>FGCU</a>, <a href='https://www.fgcu.edu/cas/departments/biosciences/'>Department of Biological Sciences</a>. 
+  10501 FGCU Blvd. S., Fort Myers, FL 33965 
+  Contacts.
 
 profile:
   align: right
