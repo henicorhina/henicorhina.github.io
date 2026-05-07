@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - henicorhina
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - henicorhina/UTEP_R_phylogenetics
+  - henicorhina/Epinecrophylla
+  - henicorhina/Riverine_islands_code
+  - henicorhina/phylogenetics
