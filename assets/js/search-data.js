@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "Our lab focuses on the Speciation, Macroevolution, Ecology, and systematics of birds, primarily in South Florida and the Neotropics. Details on these projects can be found below.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -430,8 +430,8 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
+          section: "News",},{id: "projects-nighthawk-speciation",
+          title: 'Nighthawk speciation',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
