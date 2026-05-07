@@ -2,18 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.fgcu.edu/'>FGCU</a>, <a href='https://www.fgcu.edu/cas/departments/biosciences/'>Department of Biological Sciences</a>. 
-  10501 FGCU Blvd. S., Fort Myers, FL 33965 
-  Contacts.
+subtitle: Welcome to the website of the Ornithology Lab at the <a href='https://www.fgcu.edu/'>FGCU</a> <a href='https://www.fgcu.edu/cas/departments/biosciences/'>Department of Biological Sciences</a>. 
+
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Florida Gulf Coast University</p>
+    <p>Department of Biological Sciences</p>
+    <p>10501 FGCU Blvd. S.</p>
+    <p>Fort Myers, FL 33965</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
