@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Great White Heron
-description: Speciation in the Great Blue / Great White Heron complex
-img: assets/img/GWHE.jpg
-importance: 2
-category: Speciation
-giscus_comments: true
+title: project 3 with very long name
+description: a project that redirects to another website
+img: assets/img/7.jpg
+redirect: https://unsplash.com
+importance: 3
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

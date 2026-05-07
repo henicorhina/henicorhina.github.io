@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Great White Heron
-description: Speciation in the Great Blue / Great White Heron complex
-img: assets/img/GWHE.jpg
-importance: 2
-category: Speciation
-giscus_comments: true
+title: project 4
+description: another without an image
+img:
+importance: 3
+category: fun
 ---
 
 Every project has a beautiful feature showcase page.
