@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nighthawk speciation
-description: with background image
+description: Speciation in the Common and Antillean Nighthawks
 img: assets/img/common_nighthawk.jpeg
 importance: 1
 category: Speciation

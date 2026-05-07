@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Red-shouldered Hawks
+description: Speciation in the Red-shouldered and Ridgway's Hawk complex
+img: assets/img/extimus.jpeg
 importance: 3
-category: work
+category: Speciation
 ---
 
 Every project has a beautiful feature showcase page.
