@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: Welcome to the website of the Ornithology Lab at the <a href='https://www.fgcu.edu/'>FGCU</a> <a href='https://www.fgcu.edu/cas/departments/biosciences/'>Department of Biological Sciences</a>. 
 
-
+ 
 profile:
   align: right
   image: prof_pic.jpg
