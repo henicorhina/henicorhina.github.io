@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Welcome to the website of the Ornithology Lab at the <a href='https://www.fgcu.edu/'>FGCU</a> <a href='https://www.fgcu.edu/cas/departments/biosciences/'>Department of Biological Sciences</a>. 
+subtitle:  
 
  
 profile:
@@ -28,6 +28,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+Welcome to the website of the Ornithology Lab at the <a href='https://www.fgcu.edu/'>FGCU</a> <a href='https://www.fgcu.edu/cas/departments/biosciences/'>Department of Biological Sciences</a>.
 
 The FGCU Ornithology Research Lab studies the evolutionary history and diversity of birds through research in speciation, systematics, phylogenetics, and biogeography. Based at Florida Gulf Coast University, the lab combines genomic data, museum collections, fieldwork, and computational approaches to investigate avian speciation. Current projects focus on questions related to species limits, evolutionary relationships, and patterns of biodiversity, with most studies centered on Neotropical and South Florida birds.
 
