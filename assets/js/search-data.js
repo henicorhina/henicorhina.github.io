@@ -432,7 +432,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-nighthawk-speciation",
           title: 'Nighthawk speciation',
-          description: "with background image",
+          description: "Speciation in the Common and Antillean Nighthawks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-great-white-heron",
@@ -440,9 +440,9 @@ ninja.data = [{
           description: "Speciation in the Great Blue / Great White Heron complex",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-red-shouldered-hawks",
+          title: 'Red-shouldered Hawks',
+          description: "Speciation in the Red-shouldered and Ridgway&#39;s Hawk complex",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
