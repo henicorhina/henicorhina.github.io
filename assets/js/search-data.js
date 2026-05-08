@@ -438,8 +438,8 @@ ninja.data = [{
           description: "Speciation in the Red-shouldered and Ridgway&#39;s Hawk complex",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-black-rail-occupancy",
-          title: 'Black Rail occupancy',
+            },},{id: "projects-black-rail-vocalization-activity-and-occupancy",
+          title: 'Black Rail Vocalization Activity and Occupancy',
           description: "Black Rail occupancy in the Big Cypress National Preserve",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
