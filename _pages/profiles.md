@@ -10,7 +10,7 @@ nav_order: 7
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
-  - align: right
+  - align: left
     image: oscarjohnson.jpeg
     content: about_johnson.md
     image_circular: false # crops the image to make it circular
@@ -24,7 +24,7 @@ profiles:
     content: about_Friedman.md
     image_circular: false # crops the image to make it circular
 
-  - align: right
+  - align: left
     image: mangione.jpeg
     content: about_mangione.md
     image_circular: false # crops the image to make it circular
