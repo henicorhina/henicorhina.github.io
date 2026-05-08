@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Black Rail occupancy
+title: Black Rail Vocalization Activity and Occupancy
 description: Black Rail occupancy in the Big Cypress National Preserve
 img: 
 importance: 3

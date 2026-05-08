@@ -25,7 +25,7 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: right
-    image: prof_pic.jpg
+    image: mangione.jpeg
     content: about_mangione.md
     image_circular: false # crops the image to make it circular
 
