@@ -42,7 +42,7 @@ Eastern Black Rails (*Laterallus jamaicensis jamaicensis*) are federally threate
 
 Black Rails are extremely secretive, and are primarily detected by vocalizations. The recordings from the ARUs are analyzed with Machine Learning models to detect Black Rail vocalizations from the thousands of hours of ARU sound recordings. An example of a Black Rail sonogram is below.
 
-</div>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/blra/BLRA_sonogram.png" title="example image" class="img-fluid rounded z-depth-1" %}
