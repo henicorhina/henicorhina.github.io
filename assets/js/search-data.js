@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Our lab focuses on the Speciation, Macroevolution, Ecology, and systematics of birds, primarily in South Florida and the Neotropics. Details on these projects can be found below.",
+          description: "Our lab focuses on the Speciation, Systematics, Macroevolution, and Ecology of birds, primarily in South Florida and the Neotropics. Details on these projects can be found below.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -427,27 +427,27 @@ ninja.data = [{
           title: 'Nighthawk speciation',
           description: "Speciation in the Common and Antillean Nighthawks",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
+              window.location.href = "/projects/1_project_nighthawk/";
             },},{id: "projects-great-white-heron",
           title: 'Great White Heron',
           description: "Speciation in the Great Blue / Great White Heron complex",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
+              window.location.href = "/projects/2_project_herons/";
             },},{id: "projects-red-shouldered-hawks",
           title: 'Red-shouldered Hawks',
           description: "Speciation in the Red-shouldered and Ridgway&#39;s Hawk complex",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/3_project_RSHA/";
             },},{id: "projects-black-rail-vocalization-activity-and-occupancy",
           title: 'Black Rail Vocalization Activity and Occupancy',
           description: "Black Rail occupancy in the Big Cypress National Preserve",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/4_project_BLRA/";
+            },},{id: "projects-suboscine-trait-evolution",
+          title: 'Suboscine trait evolution',
+          description: "How traits evolve in avian radiations",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/5_project_macroevolution/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
