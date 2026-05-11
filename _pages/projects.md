@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Our lab focuses on the Speciation, Macroevolution, Ecology, and systematics of birds, primarily in South Florida and the Neotropics. Details on these projects can be found below.
+description: Our lab focuses on the Speciation, Systematics, Macroevolution, and Ecology of birds, primarily in South Florida and the Neotropics. Details on these projects can be found below.
 nav: true
 nav_order: 3
-display_categories: [Speciation, Ecology, Macroevolution, Systematics]
+display_categories: [Speciation and Systematics, Ecology, Macroevolution]
 horizontal: false
 ---
 
