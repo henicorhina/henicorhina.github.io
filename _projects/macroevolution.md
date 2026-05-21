@@ -26,8 +26,8 @@ The transition from allopatry to secondary sympatry following speciation is a ce
 Some results on the timing of the transition to sympatry can be seen in my talk at the 2021 American Ornithological Society conference, below:
 Note: includes captions in Spanish. 
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include video.liquid path="https://www.youtube.com/embed/AU8t5CffAp8" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>

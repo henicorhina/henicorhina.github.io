@@ -3,6 +3,14 @@ layout: page
 ---
 <div class="post">
   <article>
+
+    {% if page.banner %}
+    <div style="width: 100%; margin-bottom: 2rem;">
+      <img src="/assets/img/{{ page.banner }}"
+           alt="Page banner"
+           style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
+    </div>
+    {% endif %}
     {% if page.profiles %}
       {% for profile in page.profiles %}
         <hr>

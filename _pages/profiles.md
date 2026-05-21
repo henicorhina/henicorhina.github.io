@@ -5,6 +5,7 @@ title: People
 description: The lab focuses on Master's and undergraduate student research. We are currently not accepting new Master's students. If you are interested in joining the lab as an undergraduate researcher, contact Dr. Johnson directly.
 nav: true
 nav_order: 7
+banner: Boca_Grande_Key_banner.jpg
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -55,9 +56,3 @@ profiles:
 
 ---
 
-
-<div style="width: 100%; margin-bottom: 2rem;">
-  <img src="/assets/img/Boca_Grande_Key_banner.jpg" 
-       alt="Lab banner" 
-       style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
-</div>
