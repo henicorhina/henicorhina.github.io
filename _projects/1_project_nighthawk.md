@@ -26,12 +26,12 @@ Undergraduate student researchers have led the charge on this research project, 
 These two species of nighthawks are of further interest because in addition to species-specific vocalizions, the males of both species perform impressive aerial displays to attract females, in which they produce a mechanical sound with the wing feathers, coloquially known as a "boom". 
 
 
-<div class="row justify-content-sm-center" style="display: flex; align-items: stretch;">
-    <div class="col-sm-8 mt-3 mt-md-0" style="display: flex; flex-direction: column;">
-        {% include figure.liquid path="assets/img/recording_nighthawks.jpg" title="nighthawk comparison" class="img-fluid rounded z-depth-1" style="flex: 1; height: 100%; width: 100%; object-fit: fill;" %}
+<div class="row justify-content-sm-center match-height" style="align-items: stretch;">
+    <div class="col-sm-8 mt-3 mt-md-0 d-flex">
+        {% include figure.liquid path="assets/img/recording_nighthawks.jpg" title="nighthawk comparison" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0" style="display: flex; flex-direction: column;">
-        {% include figure.liquid path="assets/img/Antillean_Nighthawk_boom_figure.png" title="Antillean Nighthawk display" class="img-fluid rounded z-depth-1" style="flex: 1; height: 100%; width: 100%; object-fit: fill;" %}
+    <div class="col-sm-4 mt-3 mt-md-0 d-flex">
+        {% include figure.liquid path="assets/img/Antillean_Nighthawk_boom_figure.png" title="Antillean Nighthawk display" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
