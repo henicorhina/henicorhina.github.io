@@ -29,8 +29,37 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
+    image: prof_pic.jpg
     content: about_general.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
+    content: about_Leslie_Alfonso.md
+
+  - align: left
+    content: about_Aiden_Barbour.md
+
+  - align: left
+    content: about_Ani_Dues.md
+
+  - align: left
+    content: about_Isabella_Hardman.md
+
+  - align: left
+    content: about_Dylan_.md
+
+  - align: left
+    content: about_Malena_Sellen.md
+
+  - align: left
+    content: about_former_undergrads.md
 
 
 ---
 
+
+<div style="width: 100%; margin-bottom: 2rem;">
+  <img src="/assets/img/Boca_Grande_Key_banner.jpg" 
+       alt="Lab banner" 
+       style="width: 100%; height: 300px; object-fit: cover; border-radius: 8px;">
+</div>
