@@ -39,13 +39,13 @@
 @use "font-awesome/regular";
 
 // ADD YOUR CUSTOM STYLES HERE:
-.profile img {
+.profiles img {
   width: 200px;    // change this to whatever size you want
   height: 200px;
   object-fit: cover;
 }
 
-.profile {
+.profiles {
   display: flex;
   flex-direction: row;
   align-items: flex-start;
