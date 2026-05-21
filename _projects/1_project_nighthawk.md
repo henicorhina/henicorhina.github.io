@@ -8,19 +8,18 @@ category: Speciation and Systematics
 related_publications: true
 ---
 
-More details to be added soon.
+The ranges of the Common Nighthawk (_Chordeiles minor_) and Antillean Nighthawk (_Chordeiles gundlachii_) meet in the Florida Keys, with Antillean being primary a Caribbean species, and Common widespread in continental North America. The two species expanded their ranges in the 1960s, likely tied to the clearing of land for human development, so this contact zone between the two species represents a recent case of secondary contact that is of great research interest. We are studying these two species and the area of contact for insights into how new species form and how they are maintained once they regain contact (i.e., secondary contact). 
+
+Undergraduate student researchers have led the charge on this research project, conducting analyses of vocalizations using data from the Macaulay Library of Natural Sounds and Xeno-Canto. They have also conducted behavioral experiments in the field by broadcasting sounds of the same and the different species and measuring the responses of wild birds to these sounds.
+
+These two species of nighthawks are of further interest because in addition to species-specific vocalizions, the males of both species perform impressive aerial displays to attract females, in which they produce a mechanical sound with the wing feathers, coloquially known as a "boom". 
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/nighthawk_comparison.jpg" title="nighthawk comparison" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0" style="height: 300px; overflow: hidden;">
+        {% include figure.liquid loading="eager" path="assets/img/nighthawk_comparison.jpg" title="nighthawk comparison" class="img-fluid rounded z-depth-1" style="height: 100%; width: 100%; object-fit: cover;" %}
     </div>
 </div>
-<div class="caption">
-    Common and Antillean Nighthawks look nearly identical, but sound extremely different. However, where their ranges meet in the Florida Keys, vocally intermediate birds can be found.
-</div>
-
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
