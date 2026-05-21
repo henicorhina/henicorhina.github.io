@@ -19,9 +19,7 @@ profiles:
     #  <p>Your City, State 12345</p>
 
   - align: left
-    image: prof_pic.jpg
     content: about_Friedman.md
-    image_circular: false # crops the image to make it circular
 
   - align: left
     image: mangione.jpeg
@@ -46,7 +44,7 @@ profiles:
     content: about_Isabella_Hardman.md
 
   - align: left
-    content: about_Dylan_.md
+    content: about_Dylan_Luu.md
 
   - align: left
     content: about_Malena_Sellen.md
