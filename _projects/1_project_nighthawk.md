@@ -11,8 +11,8 @@ related_publications: true
 The ranges of the Common Nighthawk (_Chordeiles minor_) and Antillean Nighthawk (_Chordeiles gundlachii_) meet in the Florida Keys, with Antillean being primary a Caribbean species, and Common widespread in continental North America. The two species expanded their ranges in the 1960s, likely tied to the clearing of land for human development, so this contact zone between the two species represents a recent case of secondary contact that is of great research interest. We are studying these two species and the area of contact for insights into how new species form and how they are maintained once they regain contact (i.e., secondary contact). 
 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/nighthawk_comparison.jpg" title="nighthawk comparison" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -27,7 +27,7 @@ These two species of nighthawks are of further interest because in addition to s
 
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-6 mt-3 mt-md-0">
+    <div class="col-sm-7 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/recording_nighthawks.jpg" title="nighthawk comparison" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
