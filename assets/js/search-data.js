@@ -423,32 +423,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-nighthawk-speciation",
-          title: 'Nighthawk speciation',
-          description: "Speciation in the Common and Antillean Nighthawks",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project_nighthawk/";
-            },},{id: "projects-great-white-heron",
-          title: 'Great White Heron',
-          description: "Speciation in the Great Blue / Great White Heron complex",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project_herons/";
-            },},{id: "projects-red-shouldered-hawks",
-          title: 'Red-shouldered Hawks',
-          description: "Speciation in the Red-shouldered and Ridgway&#39;s Hawk complex",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project_RSHA/";
-            },},{id: "projects-black-rail-vocalization-activity-and-occupancy",
-          title: 'Black Rail Vocalization Activity and Occupancy',
-          description: "Black Rail occupancy in the Big Cypress National Preserve",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project_BLRA/";
-            },},{id: "projects-suboscine-trait-evolution",
-          title: 'Suboscine trait evolution',
-          description: "How traits evolve in avian radiations",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project_macroevolution/";
-            },},{id: "projects-project-6",
+          section: "News",},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
           section: "Projects",handler: () => {
@@ -468,6 +443,31 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-black-rail-vocalization-activity-and-occupancy",
+          title: 'Black Rail Vocalization Activity and Occupancy',
+          description: "Black Rail occupancy in the Big Cypress National Preserve",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/black_rail/";
+            },},{id: "projects-great-white-heron",
+          title: 'Great White Heron',
+          description: "Speciation in the Great Blue / Great White Heron complex",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/herons/";
+            },},{id: "projects-suboscine-trait-evolution",
+          title: 'Suboscine trait evolution',
+          description: "How traits evolve in avian radiations",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/macroevolution/";
+            },},{id: "projects-nighthawk-speciation",
+          title: 'Nighthawk speciation',
+          description: "Speciation in the Common and Antillean Nighthawks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/nighthawks/";
+            },},{id: "projects-red-shouldered-hawks",
+          title: 'Red-shouldered Hawks',
+          description: "Speciation in the Red-shouldered and Ridgway&#39;s Hawk complex",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/red_shouldered_hawks/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
