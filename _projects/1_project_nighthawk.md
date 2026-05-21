@@ -16,17 +16,22 @@ These two species of nighthawks are of further interest because in addition to s
 
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="height: 300px; overflow: hidden;">
-        {% include figure.liquid loading="eager" path="assets/img/nighthawk_comparison.jpg" title="nighthawk comparison" class="img-fluid rounded z-depth-1" style="height: 100%; width: 100%; object-fit: cover;" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/nighthawk_comparison.jpg" title="nighthawk comparison" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+<div class="caption">
+    Common and Antillean Nighthawks look nearly identical, but sound extremely different. However, where their ranges meet in the Florida Keys, birdwachers have noticed and sound recoreded vocally intermediate birds.
+</div>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/recording_nighthawks.jpg" title="nighthawk comparison" class="img-fluid rounded z-depth-1" %}
+
+
+<div class="row justify-content-sm-center" style="align-items: stretch;">
+    <div class="col-sm-8 mt-3 mt-md-0 d-flex">
+        {% include figure.liquid path="assets/img/recording_nighthawks.jpg" title="nighthawk comparison" class="img-fluid rounded z-depth-1" style="width: 100%; object-fit: fill;" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Antillean_Nighthawk_boom_figure.png" title="Antillean Nighthawk display" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-4 mt-3 mt-md-0 d-flex">
+        {% include figure.liquid path="assets/img/Antillean_Nighthawk_boom_figure.png" title="Antillean Nighthawk display" class="img-fluid rounded z-depth-1" style="width: 100%; object-fit: fill;" %}
     </div>
 </div>
 <div class="caption">
