@@ -2,8 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: __Lab members__
-subtitle: The lab focuses on Master's and undergraduate student research. We are currently not accepting new Master's students. If you are interested in joining the lab as an undergraduate researcher, contact Dr. Johnson directly.
+description: The lab focuses on Master's and undergraduate student research. We are currently not accepting new Master's students. If you are interested in joining the lab as an undergraduate researcher, contact Dr. Johnson directly.
 nav: true
 nav_order: 7
 

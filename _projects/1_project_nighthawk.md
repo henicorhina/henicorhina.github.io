@@ -8,7 +8,7 @@ category: Speciation and Systematics
 related_publications: true
 ---
 
-The ranges of the Common Nighthawk (_Chordeiles minor_) and Antillean Nighthawk (_Chordeiles gundlachii_) meet in the Florida Keys, with Antillean being primary a Caribbean species, and Common widespread in continental North America. The two species expanded their ranges in the 1960s, likely tied to the clearing of land for human development, so this contact zone between the two species represents a recent case of secondary contact that is of great research interest. We are studying these two species and the area of contact for insights into how new species form and how they are maintained once they regain contact (i.e., secondary contact). 
+The ranges of the Common Nighthawk (_Chordeiles minor_) and Antillean Nighthawk (_Chordeiles gundlachii_) meet in the Florida Keys, with Antillean being primary a Caribbean species, and Common widespread in continental North America. The two species expanded their ranges into the Florida Keys in the 1960s, likely tied to the clearing of land for human development, so this contact zone between the two species represents a recent case of secondary contact that is of great research interest. We are studying these two species and the area of contact for insights into how new species form and how they are maintained once they regain contact (i.e., secondary contact). 
 
 
 <div class="row justify-content-sm-center">
@@ -17,7 +17,7 @@ The ranges of the Common Nighthawk (_Chordeiles minor_) and Antillean Nighthawk 
     </div>
 </div>
 <div class="caption">
-    Common and Antillean Nighthawks look nearly identical, but sound extremely different. However, where their ranges meet in the Florida Keys, birdwachers have noticed and sound recoreded vocally intermediate birds.
+    Common and Antillean Nighthawks look nearly identical, but sound extremely different. However, where their ranges meet in the Florida Keys, birdwachers have noticed and sound recorded vocally intermediate birds.
 </div>
 
 
@@ -35,7 +35,7 @@ These two species of nighthawks are of further interest because in addition to s
     </div>
 </div>
 <div class="caption">
-    On the left, Dr. Johnson, and undergraduate researchers Malena Sellen and Abby Knepprath sound conduct behavioral experiments on nighthawks on Big Pine Key. On the right, a photo sequence of a displaying Antillean Nighthawk on Big Pine Key. Both nighthawks dive from a great height and produce a "booming" mechanical sound with feathers of their wings at the bottom of the dive.
+    On the left, Dr. Johnson, and undergraduate researchers Malena Sellen and Abby Knepprath, sound conduct behavioral experiments on nighthawks on Big Pine Key. On the right, a photo sequence of a displaying Antillean Nighthawk on Big Pine Key. Both nighthawks dive from a great height and produce a "booming" mechanical sound with feathers of their wings at the bottom of the dive.
 </div>
 
 

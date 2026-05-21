@@ -39,9 +39,23 @@
 @use "font-awesome/regular";
 
 // ADD YOUR CUSTOM STYLES HERE:
-.match-height figure,
-.match-height img {
-  height: 100%;
-  width: 100%;
-  object-fit: fill;
+.profile img {
+  width: 200px;    // change this to whatever size you want
+  height: 200px;
+  object-fit: cover;
+}
+
+.profile {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 1.5rem;
+
+  img {
+    flex-shrink: 0;   // prevents the image from squishing when text is long
+  }
+
+  .profile-text {
+    flex: 1;
+  }
 }
