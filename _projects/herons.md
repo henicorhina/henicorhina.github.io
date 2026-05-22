@@ -2,7 +2,7 @@
 layout: page
 title: Great White Heron
 description: Speciation in the Great Blue / Great White Heron complex
-img: assets/img/GWHE.jpg
+img: assets/img/herons/GWHE.jpg
 importance: 2
 category: Speciation and Systematics
 ---
