@@ -1,4 +1,4 @@
-**Travis Mangione (Master's student)**
+###Travis Mangione (Master's student)
 
 Travis, originally from Michigan, completed his undergraduate degree in Environmental Biology at Cornerstone University in 2017. He worked in a variety of ornithological technician positions, in Michigan, Texas, Wisconsin, and Louisiana. In late 2018, he started working for the Florida Fish & Wildlife Conservation Commission (FWC) working primarily with Red-cockaded Woodpeckers, Florida black bears, prescribed fire, and hunt management. With FWC, he was able to assist with projects around the state, monitoring a variety of listed wildlife species. In 2023, he became a wildlife biologist with the National Park Service in Big Cypress National Preserve. Research focus includes white-tailed deer, Florida panther, and Burmese pythons. In 2025, he started pursuing this master’s degree researching Eastern Black Rails to determine vocalization activity, occupancy, and distribution in Big Cypress.
  

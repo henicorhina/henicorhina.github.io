@@ -1,4 +1,4 @@
-**Dr. Oscar Johnson (Principal Investigator)**
+###Dr. Oscar Johnson (Principal Investigator)
 
 Assistant Professor, Department of Biological Sciences
 

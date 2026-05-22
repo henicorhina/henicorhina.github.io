@@ -2,7 +2,6 @@
 layout: profiles
 permalink: /people/
 title: People
-description: The lab focuses on Master's and undergraduate student research. We are currently not accepting new Master's students. If you are interested in joining the lab as an undergraduate researcher, contact Dr. Johnson directly.
 nav: true
 nav_order: 7
 banner: Boca_Grande_Key_banner.jpg
@@ -10,6 +9,9 @@ banner: Boca_Grande_Key_banner.jpg
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: left
+    content: about_description.md
+
   - align: left
     image: oscarjohnson.jpeg
     content: about_johnson.md
