@@ -1,7 +1,7 @@
 ---
 layout: profiles
 permalink: /people/
-title: People
+#title: People
 nav: true
 nav_order: 7
 banner: Boca_Grande_Key_banner.jpg
