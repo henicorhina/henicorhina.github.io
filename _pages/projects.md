@@ -5,6 +5,7 @@ permalink: /projects/
 description: Our lab focuses on the Speciation, Systematics, Macroevolution, and Ecology of birds, primarily in South Florida and the Neotropics. Details on these projects can be found below.
 nav: true
 nav_order: 3
+banner: rush_tyrant.jpg
 display_categories: [Speciation and Systematics, Ecology, Macroevolution]
 horizontal: false
 ---
