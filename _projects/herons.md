@@ -20,7 +20,7 @@ The Great Blue Heron (*Ardea herodias*) is a familiar and widespread species acr
 
 In the Johnson Ornithology Lab, we are investigating the plumage divergence, ecological adaptations, and breeding success of Great Blue, Great White, and Würdemann's Herons where their ranges meet in South Florida. This project was spearheaded by undergraduate research student, Rachel Walker, and supported by a grant from the <a href='https://www.fgcu.edu/cas/communityimpact/seidler/undergraduateresearchfellowship/'>FGCU Seidler Undergraduate Fellowship</a>.
 
-<div class="row justify-content-sm-center">
+<div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/herons/638316741.jpeg" title="foraging Great White Heron" class="img-fluid rounded z-depth-1" %}
     </div>
