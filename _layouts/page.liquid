@@ -7,24 +7,54 @@ layout: default
     {{ page._styles }}
   </style>
 {% endif %}
-
 <div class="post">
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-description">{{ page.description }}</p>
-  </header>
-
+  {% if page.banner %}
+    <style>
+      .post-title, .post-description { display: none; }
+    </style>
+    <div style="
+      position: relative;
+      width: 100vw;
+      left: 50%;
+      margin-left: -50vw;
+      margin-bottom: 1rem;
+      height: 400px;
+      background-image: url('/assets/img/{{ page.banner }}');
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    ">
+      <div style="
+        text-align: center;
+        color: white;
+        text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+        padding: 1rem 2rem;
+        background: rgba(0,0,0,0.5);
+        border-radius: 8px;
+      ">
+        <h1 style="margin: 0; font-size: 2.5rem;">{{ page.title }}</h1>
+      </div>
+    </div>
+    {% if page.description %}
+      <p class="post-description" style="margin-bottom: 2rem;">{{ page.description }}</p>
+    {% endif %}
+  {% else %}
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <p class="post-description">{{ page.description }}</p>
+    </header>
+  {% endif %}
   <article>
     {{ content }}
   </article>
-
   {% if page.related_publications %}
     <h2>References</h2>
     <div class="publications">
       {% bibliography --cited_in_order %}
     </div>
   {% endif %}
-
   {% if site.giscus and page.giscus_comments %}
     {% include giscus.liquid %}
   {% endif %}

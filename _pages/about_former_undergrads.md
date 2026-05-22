@@ -1,7 +1,7 @@
 ### Past mentees and lab alumni
 
 
-**Undergraduates**
+**Undergraduates**  
 Malia Tinsley (2026)  
 <a href='https://www.linkedin.com/in/delaney-harris-501680314/'>Delaney Harris</a> (2025-2026)  
 Jay Wells (2025-2026)  
