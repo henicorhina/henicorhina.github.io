@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 nav: true
 nav_order: 7
-banner: Boca_Grande_Key_banner.jpg
+banner: Knepprath_and_Giraldi_Big_Pine_Key.jpg
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
