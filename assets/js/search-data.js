@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-people",
           title: "People",
-          description: "The lab focuses on Master&#39;s and undergraduate student research. We are currently not accepting new Master&#39;s students. If you are interested in joining the lab as an undergraduate researcher, contact Dr. Johnson directly.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
