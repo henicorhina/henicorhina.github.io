@@ -50,6 +50,9 @@ profiles:
     content: about_Dylan_Luu.md
 
   - align: left
+    content: about_Olivia_Ringland.md
+
+  - align: left
     content: about_Malena_Sellen.md
 
   - align: left
