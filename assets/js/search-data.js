@@ -30,13 +30,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resources/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "CV for Dr. Oscar Johnson",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "nav-opportunities",
           title: "opportunities",
           description: "Join the lab!",
