@@ -415,8 +415,8 @@ ninja.data = [{
             },},{id: "news-congratulations-to-undergraduate-student-anthony-dues-jr-on-successfully-defending-his-honors-thesis-titled-impacts-of-light-pollution-on-nocturnal-migrating-birds-at-a-southwest-florida-university",
           title: 'Congratulations to undergraduate student Anthony Dues, Jr. on successfully defending his honors thesis...',
           description: "",
-          section: "News",},{id: "news-announcement-1",
-          title: 'Announcement_1',
+          section: "News",},{id: "news-dr-johnson-wins-the-fgcu-junior-faculty-teaching-excellence-award",
+          title: 'Dr. Johnson wins the FGCU Junior Faculty Teaching Excellence Award!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
