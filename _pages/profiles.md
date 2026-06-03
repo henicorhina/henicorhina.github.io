@@ -3,7 +3,7 @@ layout: profiles
 permalink: /people/
 title: people
 nav: true
-nav_order: 7
+nav_order: 6
 banner: Knepprath_and_Giraldi_Big_Pine_Key.jpg
 
 profiles:

@@ -4,7 +4,7 @@ permalink: /opportunities/
 title: opportunities
 description: Join the lab!
 nav: true
-nav_order: 7
+nav_order: 5
 ---
 
 Our lab is housed in the <a href='https://www.fgcu.edu/cas/departments/biosciences/'>Department of Biological Sciences</a> at <a href='https://www.fgcu.edu/'>Florida Gulf Coast University</a>. FGCU offers a <a href='https://www.fgcu.edu/cas/departments/biosciences/bioms/'>Master's degree in Biology</a>. There is no PhD program at FGCU. 
