@@ -419,16 +419,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-congratulations-to-undergraduate-student-anthony-dues-jr-on-successfully-defending-his-honors-thesis-titled-impacts-of-light-pollution-on-nocturnal-migrating-birds-at-a-southwest-florida-university",
+          title: 'Congratulations to undergraduate student Anthony Dues, Jr. on successfully defending his honors thesis...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-dr-johnson-wins-the-fgcu-junior-faculty-teaching-excellence-award",
+          title: 'Dr. Johnson wins the FGCU Junior Faculty Teaching Excellence Award!',
           description: "",
           section: "News",},{id: "projects-project-7",
           title: 'project 7',
