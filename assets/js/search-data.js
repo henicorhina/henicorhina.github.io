@@ -45,7 +45,7 @@ ninja.data = [{
             window.location.href = "/opportunities/";
           },
         },{id: "nav-people",
-          title: "People",
+          title: "people",
           description: "",
           section: "Navigation",
           handler: () => {
@@ -422,10 +422,12 @@ ninja.data = [{
             },},{id: "news-congratulations-to-undergraduate-student-anthony-dues-jr-on-successfully-defending-his-honors-thesis-titled-impacts-of-light-pollution-on-nocturnal-migrating-birds-at-a-southwest-florida-university",
           title: 'Congratulations to undergraduate student Anthony Dues, Jr. on successfully defending his honors thesis...',
           description: "",
-          section: "News",},{id: "news-dr-johnson-wins-the-fgcu-junior-faculty-teaching-excellence-award",
-          title: 'Dr. Johnson wins the FGCU Junior Faculty Teaching Excellence Award!',
+          section: "News",},{id: "news-announcement-1",
+          title: 'Announcement_1',
           description: "",
-          section: "News",},{id: "projects-project-7",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
