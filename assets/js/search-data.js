@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/resources/";
           },
+        },{id: "nav-people",
+          title: "people",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
         },{id: "nav-opportunities",
           title: "opportunities",
           description: "Join the lab!",
@@ -37,12 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/opportunities/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "",
+        },{id: "nav-fieldwork-gallery",
+          title: "fieldwork gallery",
+          description: "Photos from the field!",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/fieldwork_gallery/";
           },
         },{id: "post-a-post-with-plotly-js",
         
