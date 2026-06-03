@@ -9,14 +9,13 @@ nav_order: 4
 
 ## GitHub users
 
+### [Dr. Johnson](https://github.com/henicorhina)
 [![Followers](https://img.shields.io/github/followers/henicorhina?style=flat-square&label=Followers)](https://github.com/henicorhina)
 [![Stars](https://img.shields.io/github/stars/henicorhina?style=flat-square&label=Total%20Stars)](https://github.com/henicorhina)
 
 ---
 
-## GitHub Repositories
-
-Code for general use:
+## GitHub Repositories for general use
 
 ### [phylogenetics](https://github.com/henicorhina/phylogenetics)
 [![Stars](https://img.shields.io/github/stars/henicorhina/phylogenetics?style=flat-square)](https://github.com/henicorhina/phylogenetics)
@@ -24,14 +23,9 @@ Code for general use:
 [![Last Commit](https://img.shields.io/github/last-commit/henicorhina/phylogenetics?style=flat-square)](https://github.com/henicorhina/phylogenetics)
 [![Language](https://img.shields.io/github/languages/top/henicorhina/phylogenetics?style=flat-square)](https://github.com/henicorhina/phylogenetics)
 
+---
 
-Below are repositories for specific publications and projects:
-
-### [Epinecrophylla](https://github.com/henicorhina/Epinecrophylla)
-[![Stars](https://img.shields.io/github/stars/henicorhina/Epinecrophylla?style=flat-square)](https://github.com/henicorhina/Epinecrophylla)
-[![Forks](https://img.shields.io/github/forks/henicorhina/Epinecrophylla?style=flat-square)](https://github.com/henicorhina/Epinecrophylla)
-[![Last Commit](https://img.shields.io/github/last-commit/henicorhina/Epinecrophylla?style=flat-square)](https://github.com/henicorhina/Epinecrophylla)
-[![Language](https://img.shields.io/github/languages/top/henicorhina/Epinecrophylla?style=flat-square)](https://github.com/henicorhina/Epinecrophylla)
+## GitHub Repositories for specific publications
 
 ### [Suture\_zones](https://github.com/henicorhina/Suture_zones)
 [![Stars](https://img.shields.io/github/stars/henicorhina/Suture_zones?style=flat-square)](https://github.com/henicorhina/Suture_zones)
@@ -44,6 +38,12 @@ Below are repositories for specific publications and projects:
 [![Forks](https://img.shields.io/github/forks/henicorhina/Riverine_islands_code?style=flat-square)](https://github.com/henicorhina/Riverine_islands_code)
 [![Last Commit](https://img.shields.io/github/last-commit/henicorhina/Riverine_islands_code?style=flat-square)](https://github.com/henicorhina/Riverine_islands_code)
 [![Language](https://img.shields.io/github/languages/top/henicorhina/Riverine_islands_code?style=flat-square)](https://github.com/henicorhina/Riverine_islands_code)
+
+### [Epinecrophylla](https://github.com/henicorhina/Epinecrophylla)
+[![Stars](https://img.shields.io/github/stars/henicorhina/Epinecrophylla?style=flat-square)](https://github.com/henicorhina/Epinecrophylla)
+[![Forks](https://img.shields.io/github/forks/henicorhina/Epinecrophylla?style=flat-square)](https://github.com/henicorhina/Epinecrophylla)
+[![Last Commit](https://img.shields.io/github/last-commit/henicorhina/Epinecrophylla?style=flat-square)](https://github.com/henicorhina/Epinecrophylla)
+[![Language](https://img.shields.io/github/languages/top/henicorhina/Epinecrophylla?style=flat-square)](https://github.com/henicorhina/Epinecrophylla)
 
 ---
 
