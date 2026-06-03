@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Dr. Johnson wins the FGCU Junior Faculty Teaching Excellence Award!
 date: 2026-04-23 15:59:00-0400
 inline: false
 related_posts: false
