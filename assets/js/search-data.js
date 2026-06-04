@@ -44,12 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/opportunities/";
           },
-        },{id: "nav-fieldwork-gallery",
-          title: "fieldwork gallery",
+        },{id: "nav-fieldwork",
+          title: "fieldwork",
           description: "Photos from the field!",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/fieldwork_gallery/";
+            window.location.href = "/fieldwork/";
           },
         },{id: "post-a-post-with-plotly-js",
         
