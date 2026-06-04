@@ -28,8 +28,8 @@ images:
   </a>
 
   <a href="{{ site.baseurl }}/assets/img/gallery/IMG_3533.jpg"
-     data-pswp-width="2500"
-     data-pswp-height="1667"
+     data-pswp-width="1667"
+     data-pswp-height="2500"
      data-pswp-caption="Walking the trails at Windley Key Fossil Reef Geological State Park"
      target="_blank">
     <img src="{{ site.baseurl }}/assets/img/gallery/IMG_3533.jpg" alt="Windley Key" class="img-fluid rounded z-depth-1">
