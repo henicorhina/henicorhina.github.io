@@ -419,6 +419,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "news-annika-and-ani-attend-the-2026-florida-undergraduate-research-conference",
+          title: 'Annika and Ani attend the 2026 Florida Undergraduate Research Conference',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026_FURC/";
+            },},{id: "news-mercedes-presents-her-research-at-the-fos-spring-meeting-in-tampa",
+          title: 'Mercedes presents her research at the FOS spring meeting in Tampa',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026_FOS_Spring/";
             },},{id: "news-congratulations-to-undergraduate-student-anthony-dues-jr-on-successfully-defending-his-honors-thesis-titled-impacts-of-light-pollution-on-nocturnal-migrating-birds-at-a-southwest-florida-university",
           title: 'Congratulations to undergraduate student Anthony Dues, Jr. on successfully defending his honors thesis...',
           description: "",
@@ -426,7 +436,12 @@ ninja.data = [{
           title: 'Dr. Johnson wins the FGCU Junior Faculty Teaching Excellence Award!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
+              window.location.href = "/news/2026_Oscar_teaching_award/";
+            },},{id: "news-five-students-graduate-eight-present-at-the-eaglex-conference",
+          title: 'Five students graduate, eight present at the EagleX conference!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026_EagleX/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
