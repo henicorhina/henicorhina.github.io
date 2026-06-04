@@ -27,18 +27,23 @@ div.pswp__caption {
   z-index: 99999 !important;
 }
 @media (max-width: 576px) {
-  #fieldwork-gallery a {
+  #fort-myers-fieldwork-gallery a,
+  #keys-fieldwork-gallery a {
     width: 48% !important;
   }
 }
 </style>
 
-<div class="pswp-gallery" id="fieldwork-gallery" style="width: 100%;">
+
+
+## Florida Keys 
+
+<div class="pswp-gallery" id="keys-fieldwork-gallery" style="width: 100%;">
 
   <a href="{{ site.baseurl }}/assets/img/gallery/IMG_8530.jpg"
      data-pswp-width="2500"
      data-pswp-height="1667"
-     data-pswp-caption="Malena Sellen sound recording Antillean Nighthawks on Grassy Key"
+     data-pswp-caption="Malena sound recording Antillean Nighthawks on Grassy Key"
      target="_blank"
      style="width: 32%; display: block; margin-bottom: 10px;">     
     <img src="{{ site.baseurl }}/assets/img/gallery/IMG_8530.jpg" 
@@ -55,6 +60,18 @@ div.pswp__caption {
      style="width: 32%; display: block; margin-bottom: 10px;">
     <img src="{{ site.baseurl }}/assets/img/gallery/IMG_6567.jpg" 
          alt="inquisitive Key Deer" 
+         class="img-fluid rounded z-depth-1"
+         style="width: 100%; display: block;">
+  </a>
+
+  <a href="{{ site.baseurl }}/assets/img/gallery/IMG_1683.jpg"
+     data-pswp-width="2500"
+     data-pswp-height="1667"
+     data-pswp-caption="Rachel conducting behavioral observations of a Würdemann's Heron on Boca Grande Key"
+     target="_blank"
+     style="width: 32%; display: block; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/assets/img/gallery/IMG_1683.jpg" 
+         alt="heron behavioral observation" 
          class="img-fluid rounded z-depth-1"
          style="width: 100%; display: block;">
   </a>
@@ -83,6 +100,74 @@ div.pswp__caption {
          style="width: 100%; display: block;">
   </a>
 
+  <a href="{{ site.baseurl }}/assets/img/gallery/IMG_3057.jpg"
+     data-pswp-width="2500"
+     data-pswp-height="1667"
+     data-pswp-caption="Waiting for nighthawks to emerge at dusk"
+     target="_blank"
+     style="width: 32%; display: block; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/assets/img/gallery/IMG_3057.jpg" 
+         alt="Waiting for nighthawks" 
+         class="img-fluid rounded z-depth-1"
+         style="width: 100%; display: block;">
+  </a>
+
+  <a href="{{ site.baseurl }}/assets/img/gallery/IMG_3260.jpg"
+     data-pswp-width="2500"
+     data-pswp-height="1667"
+     data-pswp-caption="The crew on an unsuccessful search for Great White Herons"
+     target="_blank"
+     style="width: 32%; display: block; margin-bottom: 10px;">     
+    <img src="{{ site.baseurl }}/assets/img/gallery/IMG_3260.jpg" 
+         alt="searching for herons" 
+         class="img-fluid rounded z-depth-1"
+         style="width: 100%; display: block;">
+  </a>
+
+  <a href="{{ site.baseurl }}/assets/img/gallery/IMG_3062.jpg"
+     data-pswp-width="2500"
+     data-pswp-height="1667"
+     data-pswp-caption="Sunset in the field"
+     target="_blank"
+     style="width: 32%; display: block; margin-bottom: 10px;">     
+    <img src="{{ site.baseurl }}/assets/img/gallery/IMG_3062.jpg" 
+         alt="field sunset" 
+         class="img-fluid rounded z-depth-1"
+         style="width: 100%; display: block;">
+  </a>
+
+  <a href="{{ site.baseurl }}/assets/img/gallery/IMG_6207.jpg"
+     data-pswp-width="2500"
+     data-pswp-height="1667"
+     data-pswp-caption="Quick detour to the southernmost point of the continental USA"
+     target="_blank"
+     style="width: 32%; display: block; margin-bottom: 10px;">     
+    <img src="{{ site.baseurl }}/assets/img/gallery/IMG_6207.jpg" 
+         alt="southernmost point of the USA" 
+         class="img-fluid rounded z-depth-1"
+         style="width: 100%; display: block;">
+  </a>
+
+  <a href="{{ site.baseurl }}/assets/img/gallery/638316941.jpeg"
+     data-pswp-width="2500"
+     data-pswp-height="1667"
+     data-pswp-caption="Antillean Nighthawk at Grassy Key"
+     target="_blank"
+     style="width: 32%; display: block; margin-bottom: 10px;">     
+    <img src="{{ site.baseurl }}/assets/img/gallery/638316941.jpeg" 
+         alt="Antillean Nighthawk" 
+         class="img-fluid rounded z-depth-1"
+         style="width: 100%; display: block;">
+  </a>
+
+</div>
+
+---
+
+## Fort Myers 
+
+<div class="pswp-gallery" id="fort-myers-fieldwork-gallery" style="width: 100%;">
+
   <a href="{{ site.baseurl }}/assets/img/gallery/IMG_3234.jpg"
      data-pswp-width="2500"
      data-pswp-height="1667"
@@ -95,17 +180,6 @@ div.pswp__caption {
          style="width: 100%; display: block;">
   </a>
 
-  <a href="{{ site.baseurl }}/assets/img/gallery/IMG_3057.jpg"
-     data-pswp-width="2500"
-     data-pswp-height="1667"
-     data-pswp-caption="Waiting for nighthawks to emerge at dusk"
-     target="_blank"
-     style="width: 32%; display: block; margin-bottom: 10px;">
-    <img src="{{ site.baseurl }}/assets/img/gallery/IMG_3057.jpg" 
-         alt="Waiting for nighthawks" 
-         class="img-fluid rounded z-depth-1"
-         style="width: 100%; display: block;">
-  </a>
 
   <a href="{{ site.baseurl }}/assets/img/gallery/IMG_2099.jpg"
      data-pswp-width="2500"
@@ -138,6 +212,18 @@ div.pswp__caption {
      target="_blank"
      style="width: 32%; display: block; margin-bottom: 10px;">
     <img src="{{ site.baseurl }}/assets/img/gallery/IMG_2088.jpg" 
+         alt="Surveying a heron rookery" 
+         class="img-fluid rounded z-depth-1"
+         style="width: 100%; display: block;">
+  </a>
+
+  <a href="{{ site.baseurl }}/assets/img/gallery/kayak_surveys.JPG"
+     data-pswp-width="2500"
+     data-pswp-height="1667"
+     data-pswp-caption="Malena and Mercedes surveying a heron rookery"
+     target="_blank"
+     style="width: 32%; display: block; margin-bottom: 10px;">
+    <img src="{{ site.baseurl }}/assets/img/gallery/kayak_surveys.JPG" 
          alt="Surveying a heron rookery" 
          class="img-fluid rounded z-depth-1"
          style="width: 100%; display: block;">
