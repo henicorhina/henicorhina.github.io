@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /fieldwork_gallery/
-title: fieldwork gallery
+permalink: /fieldwork/
+title: fieldwork
 description: Photos from the field!
 nav: true
 nav_order: 7
@@ -9,7 +9,7 @@ images:
   photoswipe: true
 ---
 
-<div class="pswp-gallery" id="fieldwork-gallery">
+<div class="pswp-gallery" id="fieldwork-gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
 
   <a href="{{ site.baseurl }}/assets/img/gallery/IMG_8530.jpg"
      data-pswp-width="2500"
