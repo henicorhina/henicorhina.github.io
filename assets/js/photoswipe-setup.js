@@ -12,7 +12,7 @@ lightbox.on('uiRegister', function() {
     name: 'caption',
     order: 9,
     isButton: false,
-    appendTo: 'root',
+    appendTo: 'wrapper',
     html: '',
     onInit: (el, pswp) => {
       lightbox.pswp.on('change', () => {
