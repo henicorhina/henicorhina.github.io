@@ -9,6 +9,25 @@ images:
   photoswipe: true
 ---
 
+<style>
+div.pswp__caption {
+  position: fixed !important;
+  bottom: 20px !important;
+  top: auto !important;
+  left: 0 !important;
+  right: 0 !important;
+  transform: none !important;
+  width: 100% !important;
+  padding: 8px 16px !important;
+  color: #000 !important;
+  background: rgba(255, 255, 255, 0.85) !important;
+  font-size: 1rem !important;
+  text-align: center !important;
+  border-radius: 0 !important;
+  z-index: 99999 !important;
+}
+</style>
+
 <div class="pswp-gallery" id="fieldwork-gallery" style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
 
   <a href="{{ site.baseurl }}/assets/img/gallery/IMG_8530.jpg"
