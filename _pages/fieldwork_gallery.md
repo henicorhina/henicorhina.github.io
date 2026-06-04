@@ -233,11 +233,17 @@ div.pswp__caption {
 
 
 <script src="https://cdn.jsdelivr.net/npm/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-
 <script>
   window.addEventListener('load', function() {
-    var grid = document.querySelector('#fieldwork-gallery');
-    var msnry = new Masonry(grid, {
+    var grid1 = document.querySelector('#keys-fieldwork-gallery');
+    var msnry1 = new Masonry(grid1, {
+      itemSelector: 'a',
+      percentPosition: true,
+      gutter: 10
+    });
+
+    var grid2 = document.querySelector('#fort-myers-fieldwork-gallery');
+    var msnry2 = new Masonry(grid2, {
       itemSelector: 'a',
       percentPosition: true,
       gutter: 10
