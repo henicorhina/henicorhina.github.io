@@ -28,8 +28,8 @@ div.pswp__caption {
 }
 </style>
 
-<div class="pswp-gallery" id="fieldwork-gallery" style="columns: 3; gap: 10px;">
-
+<div class="pswp-gallery" id="fieldwork-gallery" style="gap: 10px;">
+   
   <a href="{{ site.baseurl }}/assets/img/gallery/IMG_8530.jpg"
      data-pswp-width="2500"
      data-pswp-height="1667"
@@ -140,3 +140,14 @@ div.pswp__caption {
 
 </div>
 
+
+<script src="https://cdn.jsdelivr.net/npm/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+
+<script>
+  var grid = document.querySelector('#fieldwork-gallery');
+  var msnry = new Masonry(grid, {
+    itemSelector: 'a',
+    columnWidth: 'a',
+    percentPosition: true
+  });
+</script>
