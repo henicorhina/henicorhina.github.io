@@ -26,6 +26,11 @@ div.pswp__caption {
   border-radius: 0 !important;
   z-index: 99999 !important;
 }
+@media (max-width: 576px) {
+  #fieldwork-gallery a {
+    width: 48% !important;
+  }
+}
 </style>
 
 <div class="pswp-gallery" id="fieldwork-gallery" style="width: 100%;">
