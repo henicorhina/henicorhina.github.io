@@ -30,3 +30,4 @@ lightbox.on('uiRegister', function() {
 });
 
 lightbox.init();
+
