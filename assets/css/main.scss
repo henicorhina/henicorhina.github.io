@@ -37,43 +37,5 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+@use "custom";
 
-// ADD YOUR CUSTOM STYLES HERE:
-.profiles img {
-  width: 200px;    // change this to whatever size you want
-  height: 200px;
-  object-fit: cover;
-}
-
-.profiles {
-  display: flex;
-  flex-direction: row;
-  align-items: flex-start;
-  gap: 1.5rem;
-
-  img {
-    flex-shrink: 0;   // prevents the image from squishing when text is long
-  }
-
-  .profile-text {
-    flex: 1;
-  }
-}
-
-// PhotoSwipe captions
-div.pswp__caption {
-  position: fixed !important;
-  bottom: 20px !important;
-  top: auto !important;
-  left: 0 !important;
-  right: 0 !important;
-  transform: none !important;
-  width: 100% !important;
-  padding: 8px 16px !important;
-  color: #000 !important;
-  background: rgba(255, 255, 255, 0.85) !important;
-  font-size: 1rem !important;
-  text-align: center !important;
-  border-radius: 0 !important;
-  z-index: 99999 !important;
-}
