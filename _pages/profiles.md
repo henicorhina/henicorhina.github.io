@@ -13,7 +13,7 @@ profiles:
     content: about_description.md
 
   - align: left
-    image: oscarjohnson.jpeg
+    image: profile_pics/oscarjohnson.jpeg
     content: about_johnson.md
     image_circular: false # crops the image to make it circular
     #more_info: >
@@ -22,10 +22,12 @@ profiles:
     #  <p>Your City, State 12345</p>
 
   - align: left
+    image: profile_pics/lab_page_photo_AF.JPG
     content: about_Friedman.md
+    image_circular: false # crops the image to make it circular
 
   - align: left
-    image: mangione.jpeg
+    image: profile_pics/mangione.jpeg
     content: about_mangione.md
     image_circular: false # crops the image to make it circular
 
