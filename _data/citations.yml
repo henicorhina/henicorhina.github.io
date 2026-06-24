@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-24'
 papers:
   Y97b5DIAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,7 +10,7 @@ papers:
     title: A taxonomic revision of the genus Chondrohierax
     year: '2022'
   Y97b5DIAAAAJ:4DMP91E08xMC:
-    citations: 1
+    citations: 2
     title: "Migration Evolves in Response to Distinct Regimes of Climate Seasonality in Tropical Versus Temperate\u2010Breeding Suboscine Birds"
     year: '2025'
   Y97b5DIAAAAJ:4TOpqqG69KYC:
@@ -24,7 +24,7 @@ papers:
   Y97b5DIAAAAJ:9ZlFYXVOiuMC:
     citations: 0
     title: 'Song complexity in suboscine birds: evolutionary drivers and ecological constraints'
-    year: '2026'
+    year: '2025'
   Y97b5DIAAAAJ:9yKSN-GCB0IC:
     citations: 9
     title: 'The 36th report of the California Bird Records Committee: 2010 records'
@@ -42,7 +42,7 @@ papers:
     title: Recent ornithological expeditions to Siberut Island, Mt. Talamau and Rimbo Panti Nature Reserve, Sumatra, Indonesia
     year: '2020'
   Y97b5DIAAAAJ:M3ejUd6NZC8C:
-    citations: 34
+    citations: 33
     title: Amazonian birds in more dynamic habitats have less population genetic structure and higher gene flow
     year: '2023'
   Y97b5DIAAAAJ:MXK_kJrjxJIC:
@@ -94,7 +94,7 @@ papers:
     title: Genetic Structuring and Community Assembly in Neotropical Birds
     year: '2021'
   Y97b5DIAAAAJ:aqlVkmm33-oC:
-    citations: 42
+    citations: 43
     title: "Sixty-fifth supplement to the American Ornithological Society\u2019s check-list of North American birds"
     year: '2024'
   Y97b5DIAAAAJ:d1gkVwhDpl0C:
@@ -106,7 +106,7 @@ papers:
     title: 'Observations on the relationships of some Sundaic passerine taxa (Aves: Passeriformes) previously unavailable for molecular phylogenetic study'
     year: '2020'
   Y97b5DIAAAAJ:hqOjcs7Dif8C:
-    citations: 1205
+    citations: 1233
     title: 'AVONET: morphological, ecological and geographical data for all birds'
     year: '2022'
   Y97b5DIAAAAJ:kNdYIx-mwKoC:
@@ -114,7 +114,7 @@ papers:
     title: First record of the Yellow-bellied Flycatcher for the El Paso region of Texas
     year: '2022'
   Y97b5DIAAAAJ:mVmsd5A6BfQC:
-    citations: 3
+    citations: 4
     title: "Sixty-sixth supplement to the American Ornithological Society\u2019s Check-list of North American Birds"
     year: '2025'
   Y97b5DIAAAAJ:qjMakFHDy7sC:
