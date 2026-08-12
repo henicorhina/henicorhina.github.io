@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-06-29'
 papers:
   Y97b5DIAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -10,17 +10,21 @@ papers:
     title: A taxonomic revision of the genus Chondrohierax
     year: '2022'
   Y97b5DIAAAAJ:4DMP91E08xMC:
-    citations: 1
+    citations: 2
     title: "Migration Evolves in Response to Distinct Regimes of Climate Seasonality in Tropical Versus Temperate\u2010Breeding Suboscine Birds"
     year: '2025'
   Y97b5DIAAAAJ:4TOpqqG69KYC:
-    citations: 0
+    citations: 1
     title: Overgrown Bill in a Northern Mockingbird (mimus Polyglottos) from West Texas, with a Review of Bill Deformities in the Genus Mimus
     year: '2024'
   Y97b5DIAAAAJ:8k81kl-MbHgC:
     citations: 18
     title: Avifaunal surveys in the central Peruvian Amazon clarify range limits and highlight links between avian and habitat diversity
     year: '2020'
+  Y97b5DIAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: 'Song complexity in suboscine birds: evolutionary drivers and ecological constraints'
+    year: '2025'
   Y97b5DIAAAAJ:9yKSN-GCB0IC:
     citations: 9
     title: 'The 36th report of the California Bird Records Committee: 2010 records'
@@ -45,8 +49,12 @@ papers:
     citations: 12
     title: 'Avifaunal surveys along the lower Huallaga River, Region of Loreto, Peru: New distributional records, collection of topotypes, and taxonomic implications'
     year: '2019'
+  Y97b5DIAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: Check-list of North American Birds (online)
+    year: '2025'
   Y97b5DIAAAAJ:Se3iqnhoufwC:
-    citations: 9
+    citations: 10
     title: 'Systematics of a Neotropical clade of dead-leaf-foraging antwrens (Aves: Thamnophilidae; Epinecrophylla)'
     year: '2021'
   Y97b5DIAAAAJ:ULOm3_A8WrAC:
@@ -86,7 +94,7 @@ papers:
     title: Genetic Structuring and Community Assembly in Neotropical Birds
     year: '2021'
   Y97b5DIAAAAJ:aqlVkmm33-oC:
-    citations: 38
+    citations: 43
     title: "Sixty-fifth supplement to the American Ornithological Society\u2019s check-list of North American birds"
     year: '2024'
   Y97b5DIAAAAJ:d1gkVwhDpl0C:
@@ -98,7 +106,7 @@ papers:
     title: 'Observations on the relationships of some Sundaic passerine taxa (Aves: Passeriformes) previously unavailable for molecular phylogenetic study'
     year: '2020'
   Y97b5DIAAAAJ:hqOjcs7Dif8C:
-    citations: 1175
+    citations: 1242
     title: 'AVONET: morphological, ecological and geographical data for all birds'
     year: '2022'
   Y97b5DIAAAAJ:kNdYIx-mwKoC:
@@ -106,7 +114,7 @@ papers:
     title: First record of the Yellow-bellied Flycatcher for the El Paso region of Texas
     year: '2022'
   Y97b5DIAAAAJ:mVmsd5A6BfQC:
-    citations: 3
+    citations: 4
     title: "Sixty-sixth supplement to the American Ornithological Society\u2019s Check-list of North American Birds"
     year: '2025'
   Y97b5DIAAAAJ:qjMakFHDy7sC:
@@ -122,7 +130,7 @@ papers:
     title: Notes on the distribution of the avifauna of Bioko Island, Equatorial Guinea, including one new country record
     year: '2017'
   Y97b5DIAAAAJ:u5HHmVD_uO8C:
-    citations: 125
+    citations: 127
     title: "Across\u2010year social stability shapes network structure in wintering migrant sparrows"
     year: '2014'
   Y97b5DIAAAAJ:zYLM7Y9cAGgC:
