@@ -7,5 +7,6 @@ Dr. Johnson is interested in avian speciation, and how these processes scale to 
 Dr. Johnson has a background in avian conservation and field biology, before he returned to academia to pursue a doctoral degree. He is a member of the American Ornithological Society, the Society of Systematic Biologists, and the Florida Ornithological Society. Dr. Johnson joined the faculty of FGCU in 2024.
 
 [CV](/cv)
-
-ojohnson@fgcu.edu
+ojohnson [at] fgcu.edu
+<a href='https://www.linkedin.com/in/oscar-johnson-a7265b23a/'>LinkedIn</a>  
+<a href='https://www.researchgate.net/profile/Oscar-Johnson-2?ev=hdr_xprf'>ResearchGate</a>  
