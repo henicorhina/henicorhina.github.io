@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-29'
+  last_updated: '2026-08-14'
 papers:
   Y97b5DIAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -18,35 +18,35 @@ papers:
     title: Overgrown Bill in a Northern Mockingbird (mimus Polyglottos) from West Texas, with a Review of Bill Deformities in the Genus Mimus
     year: '2024'
   Y97b5DIAAAAJ:8k81kl-MbHgC:
-    citations: 18
+    citations: 17
     title: Avifaunal surveys in the central Peruvian Amazon clarify range limits and highlight links between avian and habitat diversity
     year: '2020'
   Y97b5DIAAAAJ:9ZlFYXVOiuMC:
-    citations: 0
+    citations: 1
     title: 'Song complexity in suboscine birds: evolutionary drivers and ecological constraints'
     year: '2025'
   Y97b5DIAAAAJ:9yKSN-GCB0IC:
-    citations: 9
+    citations: 10
     title: 'The 36th report of the California Bird Records Committee: 2010 records'
     year: '2012'
   Y97b5DIAAAAJ:IjCSPb-OGe4C:
-    citations: 3
+    citations: 5
     title: Notes on the nesting behavior of the Gray-mantled Wren (Odontorchilus branickii)
     year: '2017'
   Y97b5DIAAAAJ:KlAtU1dfN6UC:
-    citations: 17
+    citations: 19
     title: On the predictability of phenotypic divergence in geographic isolation
     year: '2023'
   Y97b5DIAAAAJ:LkGwnXOMwfcC:
-    citations: 1
+    citations: 2
     title: Recent ornithological expeditions to Siberut Island, Mt. Talamau and Rimbo Panti Nature Reserve, Sumatra, Indonesia
     year: '2020'
   Y97b5DIAAAAJ:M3ejUd6NZC8C:
-    citations: 34
+    citations: 35
     title: Amazonian birds in more dynamic habitats have less population genetic structure and higher gene flow
     year: '2023'
   Y97b5DIAAAAJ:MXK_kJrjxJIC:
-    citations: 12
+    citations: 11
     title: 'Avifaunal surveys along the lower Huallaga River, Region of Loreto, Peru: New distributional records, collection of topotypes, and taxonomic implications'
     year: '2019'
   Y97b5DIAAAAJ:QIV2ME_5wuYC:
@@ -74,11 +74,11 @@ papers:
     title: The Influence of Rivers and the Environment on Avian Taxon Composition Across Lowland Amazonia
     year: '2026'
   Y97b5DIAAAAJ:Y0pCki6q_DkC:
-    citations: 11
+    citations: 10
     title: A Highly Contiguous Reference Genome for Northern Bobwhite (Colinus virginianus)
     year: '2019'
   Y97b5DIAAAAJ:YsMSGLbcyi4C:
-    citations: 85
+    citations: 88
     title: Evolutionary signal in the gut microbiomes of 74 bird species from Equatorial Guinea
     year: '2020'
   Y97b5DIAAAAJ:Zph67rFs4hoC:
@@ -94,19 +94,23 @@ papers:
     title: Genetic Structuring and Community Assembly in Neotropical Birds
     year: '2021'
   Y97b5DIAAAAJ:aqlVkmm33-oC:
-    citations: 43
+    citations: 50
     title: "Sixty-fifth supplement to the American Ornithological Society\u2019s check-list of North American birds"
     year: '2024'
   Y97b5DIAAAAJ:d1gkVwhDpl0C:
     citations: 0
     title: The subspecies of the Song Sparrow on Southeast Farallon Island and in central California
     year: '2013'
+  Y97b5DIAAAAJ:dhFuZR0502QC:
+    citations: 0
+    title: Habitat, morphology, and syntopy shape song evolution in female suboscine birds (Aves, Thamnophilidae)
+    year: '2026'
   Y97b5DIAAAAJ:eQOLeE2rZwMC:
-    citations: 15
+    citations: 14
     title: 'Observations on the relationships of some Sundaic passerine taxa (Aves: Passeriformes) previously unavailable for molecular phylogenetic study'
     year: '2020'
   Y97b5DIAAAAJ:hqOjcs7Dif8C:
-    citations: 1242
+    citations: 1326
     title: 'AVONET: morphological, ecological and geographical data for all birds'
     year: '2022'
   Y97b5DIAAAAJ:kNdYIx-mwKoC:
@@ -114,7 +118,7 @@ papers:
     title: First record of the Yellow-bellied Flycatcher for the El Paso region of Texas
     year: '2022'
   Y97b5DIAAAAJ:mVmsd5A6BfQC:
-    citations: 4
+    citations: 5
     title: "Sixty-sixth supplement to the American Ornithological Society\u2019s Check-list of North American Birds"
     year: '2025'
   Y97b5DIAAAAJ:qjMakFHDy7sC:
@@ -130,7 +134,7 @@ papers:
     title: Notes on the distribution of the avifauna of Bioko Island, Equatorial Guinea, including one new country record
     year: '2017'
   Y97b5DIAAAAJ:u5HHmVD_uO8C:
-    citations: 127
+    citations: 131
     title: "Across\u2010year social stability shapes network structure in wintering migrant sparrows"
     year: '2014'
   Y97b5DIAAAAJ:zYLM7Y9cAGgC:
