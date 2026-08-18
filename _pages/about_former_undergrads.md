@@ -2,6 +2,7 @@
 
 
 **Undergraduates**  
+Aiden Barbour (2026)
 Malia Tinsley (2026)  
 <a href='https://www.linkedin.com/in/delaney-harris-501680314/'>Delaney Harris</a> (2025-2026)  
 Jay Wells (2025-2026)  
@@ -13,8 +14,7 @@ Kayla Carter (2025-2026)
 <a href='https://www.linkedin.com/in/ash-hernandez-trochez-855593309/'>Ash Hernandez-Trochez</a> (2025-2026)  
 Kassidy Braddick (2025)  
 <a href='https://www.linkedin.com/in/joseph-giraldi-1234a5330/'>Joseph Giraldi</a> (2025)   
-Allison Locher (2025)  
-<a href='https://www.linkedin.com/in/abby-knepprath-169248376/'>Abby Knepprath</a> (2025)  
+Allison Locher (2025)
 Julitza Ramirez-Soriano (2025)  
 Brock Shiver (2025)  
 Blake Bello (2025)  

@@ -50,7 +50,8 @@ profiles:
     content: about_Leslie_Alfonso.md
 
   - align: left
-    content: about_Aiden_Barbour.md
+    image: profile_pics/Ben_Bartels.jpeg
+    content: about_Ben_Bartels.md
 
   - align: left
     content: about_Ani_Dues.md
