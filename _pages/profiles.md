@@ -32,6 +32,11 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
+    image: profile_pics/Abby_Knepprath.jpeg
+    content: about_Abby_Knepprath.md
+    image_circular: false # crops the image to make it circular
+
+  - align: left
     image: profile_pics/Gia_Maida.jpeg
     content: about_Gia_Maida.md
     image_circular: false # crops the image to make it circular
