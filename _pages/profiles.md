@@ -57,6 +57,10 @@ profiles:
     content: about_Ani_Dues.md
 
   - align: left
+    image: profile_pics/Delaney_Greve.JPG
+    content: about_Delaney_Greve.md
+
+  - align: left
     content: about_Isabella_Hardman.md
 
   - align: left
