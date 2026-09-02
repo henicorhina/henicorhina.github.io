@@ -1,3 +1,3 @@
 ### Leslie Alfonso (Undergraduate student)
 
-Leslie is starting her Senior thesis in Fall 2026. She has been with the lab since Fall 2024, as a student worker conducting wading bird surveys on restored wetlands in nearby Bonita Springs.
+Leslie is originally from South Florida, born and raised. She has always loved birds and nature. For her senior research, she is studying the foraging ecology of wading birds, and continuing with conducting wading bird surveys in South Florida. She is interested in population ecology, and potentially using these skills to focus on the conservation of endangered avian species. She has been with the lab since Fall 2024, as a student worker conducting wading bird surveys on restored wetlands in nearby Bonita Springs, and a Learning Assistant for Ornithology class.

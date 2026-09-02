@@ -47,11 +47,14 @@ profiles:
     image_circular: false # crops the image to make it circular
 
   - align: left
+    image: profile_pics/meep.jpg
     content: about_Leslie_Alfonso.md
+    image_circular: false # crops the image to make it circular
 
   - align: left
     image: profile_pics/Ben_Bartels.jpeg
     content: about_Ben_Bartels.md
+    image_circular: false # crops the image to make it circular
 
   - align: left
     content: about_Ani_Dues.md
@@ -59,6 +62,7 @@ profiles:
   - align: left
     image: profile_pics/Delaney_Greve.JPG
     content: about_Delaney_Greve.md
+    image_circular: false # crops the image to make it circular
 
   - align: left
     content: about_Isabella_Hardman.md
